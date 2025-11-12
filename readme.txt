@@ -1,10 +1,10 @@
 === FM: QR Code Gateway for WooCommerce ===
-Contributors: faiqmasood
+Contributors: fmthecoder
 Tags: upi, qr code, payments, woocommerce, checkout
 Requires at least: 5.8
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,6 +74,9 @@ Yes, this plugin supports both Classic and Block Checkout experiences.
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed issues related to the textdomain.
+
 = 1.0.0 =
 * Initial release.
 * Added support for Classic and Block Checkout.
@@ -82,6 +85,9 @@ Yes, this plugin supports both Classic and Block Checkout experiences.
 ---
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Fixed issues related to the textdomain.
 
 = 1.0.0 =
 Initial stable release with full UPI QR payment support and transaction ID storage.

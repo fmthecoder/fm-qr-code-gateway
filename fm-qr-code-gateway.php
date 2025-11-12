@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       FM: QR Code Gateway for WooCommerce
  * Description:       Accept UPI payments using any QR code in WooCommerce. Displays a QR code at checkout (supports Classic & Block Checkout). Customers must enter their UPI Transaction ID before placing the order, and the ID is saved with the order details.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Faiq Masood
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html

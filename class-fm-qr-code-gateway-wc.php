@@ -14,6 +14,12 @@
  */
 class FM_QR_Code_Gateway_WC extends WC_Payment_Gateway {
 	/**
+	 * Qr_url
+	 *
+	 * @var mixed
+	 */
+	public $qr_url;
+	/**
 	 * __construct
 	 *
 	 * @return void
